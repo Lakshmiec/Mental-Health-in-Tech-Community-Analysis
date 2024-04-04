@@ -1,7 +1,4 @@
-# Mental Health in Tech Community Analysis
-
-### - Visualization with Tableau
-
+# Mental Health in Tech Community Analysis using Tableau
 
 
 ## Tableau Link
